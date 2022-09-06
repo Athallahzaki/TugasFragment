@@ -12,7 +12,6 @@ import android.widget.Toast;
 
 public class FirstFragment extends Fragment {
     Button btn_show;
-    Button btn_back;
     public FirstFragment() {
 
     }
